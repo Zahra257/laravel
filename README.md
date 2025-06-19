@@ -1,3 +1,14 @@
+<ul>
+  <li><code>php artisan serve --port=8888</code></li>
+  <li><code>php artisan make:migration create_new_table</code> (modifier le fichier ensuite)</li>
+  <li><code>php artisan migrate</code> (pour stocker la table dans la base de données)</li>
+  <li><code>php artisan make:model NewTable</code></li>
+  <li><code>php artisan make:controller PromotionCardController --resource</code></li>
+  <li><code>php artisan make:migration update_promotion_cards --table=promotion_cards</code> (pour modifier une table existante)</li>
+</ul>
+
+
+
 php artisan serve --port=8888
 
 create table (new file migration) :php artisan make:migration create_new_table
