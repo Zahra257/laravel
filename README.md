@@ -5,28 +5,13 @@
   <li><code>php artisan make:model NewTable</code>(cree model)</li>
   <li><code>php artisan make:controller PromotionCardController --resource</code>(cree cocntroler)</li>
   <li><code>php artisan make:migration update_promotion_cards --table=promotion_cards</code> (pour modifier une table existante)</li>
+  <li><code>php artisan make:request PromotionCard is form optmisation code </code> (pour cree requst )</li>
 </ul>
 
 
 
 
-create table (new file migration) :php artisan make:migration create_new_table
-modifie file
-php artisan migrate to stock it i db
-
-create model  : php artisan make:model NewTable
-
-create controller and generate methods : php artisan make:controller PromotionCardController --resource 
-
-if you want to chaange chi haja f file migrate use :php artisan make:migration update_promotion_cards --table=promotion_cards
-
 old functions (if refrech keep old values in input) b9a 3a9l 3lih 
 discard all delete changes
-$ php artisan make:request PromotionCard is form optmisation code 
 
 
-
-
-
-users 3lach fiha id account o organisation
-ornaisation mfihach id super admin
