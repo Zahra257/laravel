@@ -7,6 +7,8 @@
   <li><code>php artisan make:migration update_promotion_cards --table=promotion_cards</code> (pour modifier une table existante)</li>
   <li><code>php artisan make:request PromotionCard is form optmisation code </code> (pour cree requst )</li>
   <li><code>php artisan db:seed --class=DatabaseSeeder </code> </li> : pour ajouter sata from your vsc
+ <li> <code>php artisan db:seed</code> </li>
+
 </ul>
 
 
